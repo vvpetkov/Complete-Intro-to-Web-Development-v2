@@ -47,7 +47,7 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 * Height,Width,Padding,Border and Margin
 
   * Height = 200 / Is everting will be 200? / well  it depends :)
-   * For all site all box sizing will be predictable after this 
+   * For all site all box sizing will be predictable after this (wild card selector)
      ```css
       * {
         box-sizing: border-box;
