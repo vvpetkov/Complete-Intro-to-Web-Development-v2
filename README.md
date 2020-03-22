@@ -6,14 +6,14 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 
 [Code and Course Notes](https://btholt.github.io/intro-to-web-dev-v2/)
 
-| Content                | Video session time | Complete |
-| ---------------------- | ------------------ | -------- |
-| HTML                   | 1:30 h             | 100 %    |
-| CSS                    | 3:00 h             | 80 %     |
-| JavaScript             | 4:00 h             | 0 %      |
-| Using Ajax and Node.js | 0:30 h             | 0 %      |
-| Learning Git           | 0:40 h             | 0 %      |
-| Using Node.js          | 0:20 h             | 0 %      |
+| Content                | Video session time | Complete | Project                                                      | My Project |
+| ---------------------- | ------------------ | -------- | ------------------------------------------------------------ | ---------- |
+| HTML                   | 1:30 h             | 100 %    |                                                              |            |
+| CSS                    | 3:00 h             | 100 %    | [site](https://btholt.github.io/intro-to-web-dev-v2/news.html#) |            |
+| JavaScript             | 4:00 h             | 0 %      |                                                              |            |
+| Using Ajax and Node.js | 0:30 h             | 0 %      |                                                              |            |
+| Learning Git           | 0:40 h             | 0 %      |                                                              |            |
+| Using Node.js          | 0:20 h             | 0 %      |                                                              |            |
 
 # Notes / Abstractions / Key things / Ideas 
 
@@ -33,7 +33,7 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 
 * Classes is more specific than tags 
 
-* Do Not use ID to style overwrite Classes (bad idea)
+* Do Not use ID to style, overwrite Classes (bad idea)
 
 * Do Not use !important overwrite ID's (bad idea)
 
@@ -79,7 +79,7 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
     ```css
     dislpay:flex;
     aling-items:center;
-    justify-content: center;
+    justify-content:center;
     ```
 
     

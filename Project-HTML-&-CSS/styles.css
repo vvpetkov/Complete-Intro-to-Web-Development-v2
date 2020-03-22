@@ -1,0 +1,108 @@
+.main-brand {
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+    font-family: "Sen";
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.author {
+    font-size: 35px;
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.story-image {
+    width: 100%;
+}
+
+.story-title {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 30px;
+    font-family: 'Questrial', cursive;
+    margin: 15px 0px;
+    text-align: center;
+}
+
+.story-text {
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.row {
+    display: flex;
+    align-items: stretch;
+}
+
+.story {
+    border: 1px solid #333;
+    padding: 5px;
+
+}
+
+.quarter {
+    flex: 1;
+}
+
+.half {
+    flex: 2;
+}
+
+.three-quarter {
+    flex: 3;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+
+}
+
+.nav-item {
+    width: 100%;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    font-size: 30px;
+    color: #555;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #555;
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+}
+
+.nav-item:nth-child(1) {background-color: crimson;}
+.nav-item:nth-child(2) {background-color: rgb(48, 114, 236);}
+.nav-item:nth-child(3) {background-color: yellow;}
+.nav-item:nth-child(4) {background-color: rgb(71, 204, 129)}
+.nav-item:nth-child(5) {background-color: greenyellow;}
+.nav-item:nth-child(6) {background-color: orangered;}
+
+.ex-box {
+    border: 3px solid #aaa;
+    background-color: #eee;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 30px;
+  }
