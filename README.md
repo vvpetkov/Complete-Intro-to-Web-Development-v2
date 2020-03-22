@@ -41,15 +41,15 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 
 * The Box Model / display / flex
 
-* * grid 
+  * grid 
   * [Is it safe to use CSS grids for my layout?](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
   
 * Height,Width,Padding,Border and Margin
 
-*  Height = 200 / Is everting will be 200? / well  it depends :)
+* * Height = 200 / Is everting will be 200? / well  it depends :)
 
-* * ```css
-    /* For all site all box sizing will be predictable : */
+  * ```css
+    /* For all site all box sizing will be predictable */
     * {
         box-sizing: border-box;
     }
