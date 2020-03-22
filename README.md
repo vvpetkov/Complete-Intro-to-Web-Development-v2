@@ -6,6 +6,11 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 
 HTML / 100 % / 1:30h   
 CSS / 10 % / 3:00h    
+
+Only style in classes!
+
+If you want to style for everting in the document to look the same :  then use a tag style (all my links look the same)
+
 JS / 0 % / 4:00h    
 Using Ajax and Node.js / 0 % / 0:30h  
 Learning Git / 0 % / 0:40h  
