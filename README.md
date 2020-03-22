@@ -49,11 +49,11 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 * * Height = 200 / Is everting will be 200? / well  it depends :)
 
   * ```css
-    /* For all site all box sizing will be predictable */
+    For all site all box sizing will be predictable
     * {
         box-sizing: border-box;
     }
-  /* use only for this wild card selector */
+  use only for this 'wild card selector' for evry site 
     ```
   
 * 
