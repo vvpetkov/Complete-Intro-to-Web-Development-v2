@@ -24,12 +24,39 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 ### CSS 
 
 * Only style in classes!
+
 * If you want to style for everting in the document to look the same :  then use a tag style (all my links look the same)
+
 * Avoid cascading ,more simple ,less problems 
-* Specificity (more specific win / no space between )  [StarWars] (https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
+
+* Specificity (more specific win / no space between )  [StarWars](https://stuffandnonsense.co.uk/archives/css_specificity_wars.html)
+
 * Classes is more specific than tags 
+
 * Do Not use ID to style overwrite Classes (bad idea)
+
 * Do Not use !important overwrite ID's (bad idea)
+
+* Do not use **float** we have now **flex**
+
+* The Box Model / display / flex
+
+* * grid 
+  * [Is it safe to use CSS grids for my layout?](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
+  
+* Height,Width,Padding,Border and Margin
+
+*  Height = 200 / Is everting will be 200? / well  it depends :)
+
+* * ```css
+    /* For all site all box sizing will be predictable : */
+    * {
+        box-sizing: border-box;
+    }
+  /* use only for this wild card selector */
+    ```
+  
+* 
 
 
 
