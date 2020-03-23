@@ -9,7 +9,7 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 | Content                | Video session time | Complete | Project                                                      | My Project |
 | ---------------------- | ------------------ | -------- | ------------------------------------------------------------ | ---------- |
 | HTML                   | 1:30 h             | 100 %    |                                                              |            |
-| CSS                    | 3:00 h             | 100 %    | [site](https://btholt.github.io/intro-to-web-dev-v2/news.html#) |            |
+| CSS                    | 3:00 h             | 100 %    | [site](https://btholt.github.io/intro-to-web-dev-v2/news.html#) |      [site](https://vvpetkov.github.io/Complete-Intro-to-Web-Development-v2/Project-HTML-&-CSS/index.html#)       |
 | JavaScript             | 4:00 h             | 0 %      |                                                              |            |
 | Using Ajax and Node.js | 0:30 h             | 0 %      |                                                              |            |
 | Learning Git           | 0:40 h             | 0 %      |                                                              |            |
