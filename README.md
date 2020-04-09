@@ -6,14 +6,14 @@ Complete Intro to Web Development, v2 : More than an introduction, in this cours
 
 [Code and Course Notes](https://btholt.github.io/intro-to-web-dev-v2/)
 
-| Content                | Video session time | Complete | Project                                                      | My Project |
-| ---------------------- | ------------------ | -------- | ------------------------------------------------------------ | ---------- |
-| HTML                   | 1:30 h             | 100 %    |                                                              |            |
-| CSS                    | 3:00 h             | 100 %    | [site](https://btholt.github.io/intro-to-web-dev-v2/news.html#) |      [site](https://vvpetkov.github.io/Complete-Intro-to-Web-Development-v2/Project-HTML-&-CSS/index.html#)       |
-| JavaScript             | 4:00 h             | 0 %      |                                                              |            |
-| Using Ajax and Node.js | 0:30 h             | 0 %      |                                                              |            |
-| Learning Git           | 0:40 h             | 0 %      |                                                              |            |
-| Using Node.js          | 0:20 h             | 0 %      |                                                              |            |
+| Content                | Sessions | Videos | Complete | Project                                                      | My Project                                                   | Finished   |
+| ---------------------- | -------- | ------ | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| HTML                   | 1:30 h   | 10/10  | 100 %    |                                                              |                                                              | 21.03.2020 |
+| CSS                    | 3:00 h   | 16/16  | 100 %    | [site](https://btholt.github.io/intro-to-web-dev-v2/news.html#) | [site](https://vvpetkov.github.io/Complete-Intro-to-Web-Development-v2/Project-HTML-&-CSS/index.html#) | 22.03.2020 |
+| JavaScript             | 4:00 h   | 06/19  | 30 %     | stop on                                                      | Functions                                                    | 28.03.2020 |
+| Using Ajax and Node.js | 0:30 h   |        | 0 %      |                                                              |                                                              |            |
+| Learning Git           | 0:40 h   |        | 0 %      |                                                              |                                                              |            |
+| Using Node.js          | 0:20 h   |        | 0 %      |                                                              |                                                              |            |
 
 # Notes / Abstractions / Key things / Ideas 
 
