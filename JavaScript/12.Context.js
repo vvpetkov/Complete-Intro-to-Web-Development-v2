@@ -26,11 +26,11 @@ const me = {
 
   // this is a deep 🐇🕳️
   
-  https://frontendmasters.com/courses/javascript-foundations/
+  // https://frontendmasters.com/courses/javascript-foundations/
 
 
   // избягвай го 
   // има друг disign patern ,който може да го замести
   // да ги подаваме във променливи
-  
+
 
